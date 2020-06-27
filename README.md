@@ -30,7 +30,3 @@ New York, NY 10011
 * Career Services: coaching@flatironschool.com
 * General Technical Support not related to the curriculum: support@learn.co
 * Student Complaints: studentrelations@flatironschool.com
-
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/important-policies-and-points-of-contact'>Important Policies and Points of Contact</a> on Learn.co and start learning to code for free.</p>
