@@ -14,13 +14,13 @@ It’s important that you take time to review the details and policies outlined 
 If you have any questions or comments, please don’t hesitate to get in touch. 
 
 ## Contact Information
-**PHONE**
+**PHONE**  
 1-888-958-0569
 
-**ADDRESS**
-18 West 18th St.
-7th Floor
-New York, NY 10011
+**ADDRESS**  
+18 West 18th St.  
+7th Floor  
+New York, NY 10011  
 
 **EMAIL**
 * General questions: info@flatironschool.com
